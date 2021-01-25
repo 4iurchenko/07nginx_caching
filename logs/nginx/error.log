@@ -1,0 +1,26 @@
+2021/01/24 19:18:59 [emerg] 42#42: duplicate location "/" in /etc/nginx/sites-available/default.conf:63
+2021/01/24 19:22:22 [emerg] 11#11: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 19:24:32 [emerg] 10#10: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 19:27:21 [emerg] 10#10: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 19:27:41 [emerg] 11#11: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 19:29:12 [emerg] 11#11: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 19:29:28 [emerg] 10#10: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 19:34:04 [emerg] 9#9: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 19:35:36 [emerg] 10#10: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 19:35:42 [emerg] 10#10: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 19:37:13 [emerg] 10#10: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 19:37:32 [emerg] 10#10: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 19:39:17 [emerg] 10#10: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 19:41:44 [emerg] 10#10: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 19:53:25 [emerg] 9#9: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 19:54:12 [emerg] 9#9: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 19:58:56 [emerg] 9#9: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 20:00:06 [emerg] 9#9: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 20:01:32 [emerg] 10#10: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 20:03:43 [emerg] 9#9: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 20:04:16 [emerg] 10#10: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 20:07:07 [emerg] 10#10: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/24 20:17:37 [emerg] 10#10: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/25 19:21:02 [emerg] 9#9: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/25 19:32:01 [emerg] 9#9: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
+2021/01/25 19:36:54 [emerg] 10#10: "fastcgi_cache" zone "fastcgicache" is unknown in /etc/nginx/nginx.conf:34
